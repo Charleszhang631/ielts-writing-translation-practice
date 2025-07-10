@@ -1,4 +1,4 @@
-# 📚 Environment · Day 6
+# 📚 Environment · Day 5
 
 ## 📖 中英对照翻译练习 · C-E Translation Practice
 
